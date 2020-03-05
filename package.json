@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "description": "",
+  "description": "Crud com Sequelize",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
