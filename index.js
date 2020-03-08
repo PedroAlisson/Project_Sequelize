@@ -5,6 +5,7 @@ const port = process.env.PORT || 3000
 const bodyParser = require('body-parser')
 
 const router = require('./routes/routes')
+const sequelize = require('./models/index')
 
 
 app.use('/pessoas', router)
