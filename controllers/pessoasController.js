@@ -6,7 +6,7 @@ const store = (req,res) =>{
     res.render('')
 }
 
-const deletePessoa = (req,res) => {
+const deletePessoa = (id,req,res) => {
     res.render('')
 }
 

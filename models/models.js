@@ -2,15 +2,15 @@ const findAll = () =>{
 
 }
 
-const findById = () =>{
+const findById = (id) =>{
     
 }
 
-const deleteone = () => {
+const deleteone = (id) => {
 
 }
 
-const update = () => {
+const update = (id, data) => {
 
 }
 
