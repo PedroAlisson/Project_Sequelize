@@ -10,4 +10,8 @@ const deletePessoa = (id,req,res) => {
     res.render('')
 }
 
+const updatePessoa = (id,req,res) => {
+    res.render('')
+}
+
 module.exports = {index,store,deletePessoa}
